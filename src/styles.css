@@ -1,0 +1,7 @@
+.titlered {
+  color: red;
+  text-align: center;
+}
+.flex-container {
+  display: flex;
+}
